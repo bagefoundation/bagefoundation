@@ -1,0 +1,21 @@
+BAGE FOUNDATION WEBSITE
+=======================
+
+Website Structure:
+- index.html - Main website file
+- Screenshot 2025-11-04 130700.png - Your logo
+- images/ - Folder containing website background images
+
+To Use:
+1. Extract all files to a folder
+2. Double-click index.html to view locally
+3. For hosting: Upload entire folder to GitHub Pages/Netlify
+
+Features:
+- Responsive design (works on mobile & desktop)
+- Smooth scrolling navigation
+- Interactive elements
+- Professional blue/orange color scheme
+- Contact form integration
+
+Note: Replace placeholder images in /images/ folder with your actual photos
